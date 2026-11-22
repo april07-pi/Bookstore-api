@@ -1,0 +1,6 @@
+{
+  "name": "Bookstore API Lab",
+  "description": "Interactive REST API sandbox, MockAPI seed generator, and Python requests script workbench for the Bookstore Inventory practical exercise.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
